@@ -11,6 +11,6 @@ echo "Baixando e copiando os arquivos da aplicação"
 
 cd /tmp
 wget https://codeload.github.com/patrickluizdev/Flex-Turismo/zip/refs/heads/main
-unzip main.zip
-cd linux-site-dio-main
+unzip main
+cd Flex-Turismo-main
 cp -R * /var/www/html/
