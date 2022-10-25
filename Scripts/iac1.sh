@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Criando diretórios"
 
 mkdir /publico
